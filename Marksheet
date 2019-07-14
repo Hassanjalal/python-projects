@@ -1,8 +1,9 @@
-#Marks Sheet
+
 Name = input("Enter your Name")
 Roll_number = input("Enter your Roll number")
 Class_section = input("Enter your Class Section")
     
+
 english = float(input("Enter your English Marks"))
 urdu = float(input("Enter your Urdu Marks"))
 islamiat = float(input("Enter your English Marks"))
